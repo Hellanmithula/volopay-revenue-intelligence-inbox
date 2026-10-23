@@ -1,0 +1,638 @@
+[
+  {
+    "record_ref": "B01",
+    "source_type": "call",
+    "source_id": "4868e5cd-5ab8-581c-a0e4-acc37385f0cf",
+    "applied_source_revision": 1,
+    "routes": [
+      "Intake only — no usable text"
+    ],
+    "output_paths": [],
+    "processing_review_state": "intake only",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "B02",
+    "source_type": "call",
+    "source_id": "5747e4cd-e24f-5bed-bf74-9e3f326b2d77",
+    "applied_source_revision": 1,
+    "routes": [
+      "Intake only — no usable text"
+    ],
+    "output_paths": [],
+    "processing_review_state": "intake only",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "B03",
+    "source_type": "call",
+    "source_id": "024caffc-d16e-5843-b325-682dbc8d448e",
+    "applied_source_revision": 1,
+    "routes": [
+      "Intake only — no usable text"
+    ],
+    "output_paths": [],
+    "processing_review_state": "intake only",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "B04",
+    "source_type": "call",
+    "source_id": "530207ea-d67b-521a-8085-bdb9ae665417",
+    "applied_source_revision": 1,
+    "routes": [
+      "Intake only — no usable text"
+    ],
+    "output_paths": [],
+    "processing_review_state": "intake only",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "B05",
+    "source_type": "call",
+    "source_id": "903641e9-d761-591a-a149-334ddfcd236e",
+    "applied_source_revision": 1,
+    "routes": [
+      "Intake only — no usable text"
+    ],
+    "output_paths": [],
+    "processing_review_state": "intake only",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "B06",
+    "source_type": "call",
+    "source_id": "53f61c95-27b9-50c2-8755-08f957594950",
+    "applied_source_revision": 1,
+    "routes": [
+      "Intake only — no usable text"
+    ],
+    "output_paths": [],
+    "processing_review_state": "intake only",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "B07",
+    "source_type": "call",
+    "source_id": "f9be8537-1ad9-58fc-be24-78f73d09db9c",
+    "applied_source_revision": 1,
+    "routes": [
+      "Intake only — no usable text"
+    ],
+    "output_paths": [],
+    "processing_review_state": "intake only",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "B08",
+    "source_type": "call",
+    "source_id": "77350513-913c-5fed-b4e6-71009de9df03",
+    "applied_source_revision": 1,
+    "routes": [
+      "Intake only — no usable text"
+    ],
+    "output_paths": [],
+    "processing_review_state": "intake only",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "B09",
+    "source_type": "call",
+    "source_id": "747390bc-f359-5609-bf79-0a44ef8919bd",
+    "applied_source_revision": 1,
+    "routes": [
+      "Intake only — no usable text"
+    ],
+    "output_paths": [],
+    "processing_review_state": "intake only",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "B10",
+    "source_type": "call",
+    "source_id": "3ea930a1-0496-51e3-9dca-adc3be29331a",
+    "applied_source_revision": 1,
+    "routes": [
+      "Intake only — no usable text"
+    ],
+    "output_paths": [],
+    "processing_review_state": "intake only",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "B11",
+    "source_type": "call",
+    "source_id": "bfefcb48-1a98-5610-a0ee-0f03434188a9",
+    "applied_source_revision": 1,
+    "routes": [
+      "Intake only — no usable text"
+    ],
+    "output_paths": [],
+    "processing_review_state": "intake only",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "B12",
+    "source_type": "call",
+    "source_id": "9a64eb58-d462-5a6e-aa9e-c0f88852ebe0",
+    "applied_source_revision": 1,
+    "routes": [
+      "Intake only — no usable text"
+    ],
+    "output_paths": [],
+    "processing_review_state": "intake only",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "B13",
+    "source_type": "call",
+    "source_id": "6521ed7d-53fc-5b3b-be77-7d4610c90ed7",
+    "applied_source_revision": 1,
+    "routes": [
+      "Intake only — no usable text"
+    ],
+    "output_paths": [],
+    "processing_review_state": "intake only",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "B14",
+    "source_type": "call",
+    "source_id": "81da63f4-eac6-5efd-95e1-69ad6e6def25",
+    "applied_source_revision": 1,
+    "routes": [
+      "Intake only — no usable text"
+    ],
+    "output_paths": [],
+    "processing_review_state": "intake only",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "B15",
+    "source_type": "call",
+    "source_id": "2ada5ab0-8a84-54b7-a071-cd5bd6ad5abd",
+    "applied_source_revision": 1,
+    "routes": [
+      "Intake only — no usable text"
+    ],
+    "output_paths": [],
+    "processing_review_state": "intake only",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "B16",
+    "source_type": "call",
+    "source_id": "1f5181ed-4175-5d73-a16b-01d404b1820d",
+    "applied_source_revision": 1,
+    "routes": [
+      "Intake only — no usable text"
+    ],
+    "output_paths": [],
+    "processing_review_state": "intake only",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "B17",
+    "source_type": "call",
+    "source_id": "1645d595-1896-5201-9395-cb8a9f1c5f3a",
+    "applied_source_revision": 1,
+    "routes": [
+      "Intake only — no usable text"
+    ],
+    "output_paths": [],
+    "processing_review_state": "intake only",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "B18",
+    "source_type": "call",
+    "source_id": "26c3ccc3-63a6-55f6-a5a3-e279b36b7e88",
+    "applied_source_revision": 1,
+    "routes": [
+      "Intake only — no usable text"
+    ],
+    "output_paths": [],
+    "processing_review_state": "intake only",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "B19",
+    "source_type": "call",
+    "source_id": "6ee11c0e-c74a-5805-b552-657443378b72",
+    "applied_source_revision": 1,
+    "routes": [
+      "Intake only — no usable text"
+    ],
+    "output_paths": [],
+    "processing_review_state": "intake only",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "B20",
+    "source_type": "call",
+    "source_id": "94b4f015-b243-5b89-b435-9957125ecdd4",
+    "applied_source_revision": 1,
+    "routes": [
+      "Intake only — no usable text"
+    ],
+    "output_paths": [],
+    "processing_review_state": "intake only",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "C01",
+    "source_type": "call",
+    "source_id": "2ec4404c-beee-5377-a63c-aab701da08ed",
+    "applied_source_revision": 1,
+    "routes": [
+      "Needs human review"
+    ],
+    "output_paths": [
+      "outputs/C01_call_2ec4404c_1_needs_human_review.md"
+    ],
+    "processing_review_state": "prepared rule-based extract; review recommended",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "C02",
+    "source_type": "call",
+    "source_id": "4b870624-8aad-5315-a60e-0db95981cf99",
+    "applied_source_revision": 1,
+    "routes": [
+      "Needs human review"
+    ],
+    "output_paths": [
+      "outputs/C02_call_4b870624_1_needs_human_review.md"
+    ],
+    "processing_review_state": "prepared rule-based extract; review recommended",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "C03",
+    "source_type": "call",
+    "source_id": "20d509ba-d589-5334-9aef-ea4ce6105b1a",
+    "applied_source_revision": 1,
+    "routes": [
+      "Deal next steps",
+      "Internal/vendor note"
+    ],
+    "output_paths": [
+      "outputs/C03_call_20d509ba_1_deal_next_steps.md",
+      "outputs/C03_call_20d509ba_2_internal_vendor_note.md"
+    ],
+    "processing_review_state": "prepared rule-based extract; review recommended",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "C04",
+    "source_type": "call",
+    "source_id": "bcdcbf56-d338-5c78-9a97-42c2fc1c9931",
+    "applied_source_revision": 1,
+    "routes": [
+      "Needs human review"
+    ],
+    "output_paths": [
+      "outputs/C04_call_bcdcbf56_1_needs_human_review.md"
+    ],
+    "processing_review_state": "prepared rule-based extract; review recommended",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "C05",
+    "source_type": "call",
+    "source_id": "75a6b94f-7717-5cfb-9e41-0acc94415e17",
+    "applied_source_revision": 1,
+    "routes": [
+      "Customer follow-up",
+      "Internal/vendor note"
+    ],
+    "output_paths": [
+      "outputs/C05_call_75a6b94f_1_customer_follow_up.md",
+      "outputs/C05_call_75a6b94f_2_internal_vendor_note.md"
+    ],
+    "processing_review_state": "prepared rule-based extract; review recommended",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "C06",
+    "source_type": "call",
+    "source_id": "12216d5c-e254-52c6-b344-47de4c6e1ae5",
+    "applied_source_revision": 1,
+    "routes": [
+      "Customer follow-up",
+      "Internal/vendor note"
+    ],
+    "output_paths": [
+      "outputs/C06_call_12216d5c_1_customer_follow_up.md",
+      "outputs/C06_call_12216d5c_2_internal_vendor_note.md"
+    ],
+    "processing_review_state": "prepared rule-based extract; review recommended",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "C07",
+    "source_type": "call",
+    "source_id": "428817fa-7e9e-5418-a7d4-bb396d28dfbf",
+    "applied_source_revision": 1,
+    "routes": [
+      "Customer follow-up"
+    ],
+    "output_paths": [
+      "outputs/C07_call_428817fa_1_customer_follow_up.md"
+    ],
+    "processing_review_state": "prepared rule-based extract; review recommended",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "C08",
+    "source_type": "call",
+    "source_id": "129497b2-8e1d-5e01-919c-e8a852b5ff68",
+    "applied_source_revision": 1,
+    "routes": [
+      "Customer follow-up"
+    ],
+    "output_paths": [
+      "outputs/C08_call_129497b2_1_customer_follow_up.md"
+    ],
+    "processing_review_state": "prepared rule-based extract; review recommended",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "C09",
+    "source_type": "call",
+    "source_id": "4a1de681-f884-55e8-b1ad-de22d17cd959",
+    "applied_source_revision": 1,
+    "routes": [
+      "Customer follow-up",
+      "Internal/vendor note"
+    ],
+    "output_paths": [
+      "outputs/C09_call_4a1de681_1_customer_follow_up.md",
+      "outputs/C09_call_4a1de681_2_internal_vendor_note.md"
+    ],
+    "processing_review_state": "prepared rule-based extract; review recommended",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "C10",
+    "source_type": "call",
+    "source_id": "b747f592-810e-583c-9b81-8db5ab035806",
+    "applied_source_revision": 1,
+    "routes": [
+      "Deal next steps",
+      "Customer follow-up",
+      "Internal/vendor note"
+    ],
+    "output_paths": [
+      "outputs/C10_call_b747f592_1_deal_next_steps.md",
+      "outputs/C10_call_b747f592_2_customer_follow_up.md",
+      "outputs/C10_call_b747f592_3_internal_vendor_note.md"
+    ],
+    "processing_review_state": "prepared rule-based extract; review recommended",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "M01",
+    "source_type": "meeting",
+    "source_id": "cb5cecac-e68d-52b7-b10b-b0c748efc467",
+    "applied_source_revision": 1,
+    "routes": [
+      "Customer follow-up"
+    ],
+    "output_paths": [
+      "outputs/M01_meeting_cb5cecac_1_customer_follow_up.md"
+    ],
+    "processing_review_state": "prepared rule-based extract; review recommended",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "M02",
+    "source_type": "meeting",
+    "source_id": "1a21c409-c050-5787-90af-2667e057e1b6",
+    "applied_source_revision": 1,
+    "routes": [
+      "Customer follow-up",
+      "Internal/vendor note"
+    ],
+    "output_paths": [
+      "outputs/M02_meeting_1a21c409_1_customer_follow_up.md",
+      "outputs/M02_meeting_1a21c409_2_internal_vendor_note.md"
+    ],
+    "processing_review_state": "prepared rule-based extract; review recommended",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "M03",
+    "source_type": "meeting",
+    "source_id": "398672e7-62dd-5afd-846d-0237d49792fb",
+    "applied_source_revision": 1,
+    "routes": [
+      "Deal next steps",
+      "Customer follow-up",
+      "Internal/vendor note"
+    ],
+    "output_paths": [
+      "outputs/M03_meeting_398672e7_1_deal_next_steps.md",
+      "outputs/M03_meeting_398672e7_2_customer_follow_up.md",
+      "outputs/M03_meeting_398672e7_3_internal_vendor_note.md"
+    ],
+    "processing_review_state": "prepared rule-based extract; review recommended",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "M04",
+    "source_type": "meeting",
+    "source_id": "b0f79b3d-37ba-52f9-b2bc-58b159dd6d91",
+    "applied_source_revision": 1,
+    "routes": [
+      "Deal next steps",
+      "Customer follow-up",
+      "Internal/vendor note"
+    ],
+    "output_paths": [
+      "outputs/M04_meeting_b0f79b3d_1_deal_next_steps.md",
+      "outputs/M04_meeting_b0f79b3d_2_customer_follow_up.md",
+      "outputs/M04_meeting_b0f79b3d_3_internal_vendor_note.md"
+    ],
+    "processing_review_state": "prepared rule-based extract; review recommended",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "M05",
+    "source_type": "meeting",
+    "source_id": "e0ecb112-ed94-5e8e-ae71-19def5536337",
+    "applied_source_revision": 1,
+    "routes": [
+      "Intake only — no usable text"
+    ],
+    "output_paths": [],
+    "processing_review_state": "intake only",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "M06",
+    "source_type": "meeting",
+    "source_id": "657b9e9d-9472-5b01-a127-a648ad7e8cf7",
+    "applied_source_revision": 1,
+    "routes": [
+      "Deal next steps",
+      "Customer follow-up"
+    ],
+    "output_paths": [
+      "outputs/M06_meeting_657b9e9d_1_deal_next_steps.md",
+      "outputs/M06_meeting_657b9e9d_2_customer_follow_up.md"
+    ],
+    "processing_review_state": "prepared rule-based extract; review recommended",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "M07",
+    "source_type": "meeting",
+    "source_id": "4f304fff-fd40-5cfc-a366-0a134c445c2a",
+    "applied_source_revision": 2,
+    "routes": [
+      "Customer follow-up"
+    ],
+    "output_paths": [
+      "outputs/M07_meeting_4f304fff_1_customer_follow_up.md"
+    ],
+    "processing_review_state": "needs review after source update",
+    "manual_override": true,
+    "analysis_freshness": "stale_or_review_needed"
+  },
+  {
+    "record_ref": "M08",
+    "source_type": "meeting",
+    "source_id": "883182d8-eb86-56f9-a928-152365998d15",
+    "applied_source_revision": 1,
+    "routes": [
+      "Intake only — no usable text"
+    ],
+    "output_paths": [],
+    "processing_review_state": "intake only",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "M09",
+    "source_type": "meeting",
+    "source_id": "4b5b9192-f3fc-505a-8e77-4d2ffaa54594",
+    "applied_source_revision": 1,
+    "routes": [
+      "Customer follow-up",
+      "Internal/vendor note"
+    ],
+    "output_paths": [
+      "outputs/M09_meeting_4b5b9192_1_customer_follow_up.md",
+      "outputs/M09_meeting_4b5b9192_2_internal_vendor_note.md"
+    ],
+    "processing_review_state": "prepared rule-based extract; review recommended",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "M10",
+    "source_type": "meeting",
+    "source_id": "337f297d-9385-5b82-9e54-5019c1ed912c",
+    "applied_source_revision": 1,
+    "routes": [
+      "Deal next steps",
+      "Customer follow-up"
+    ],
+    "output_paths": [
+      "outputs/M10_meeting_337f297d_1_deal_next_steps.md",
+      "outputs/M10_meeting_337f297d_2_customer_follow_up.md"
+    ],
+    "processing_review_state": "prepared rule-based extract; review recommended",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "M11",
+    "source_type": "meeting",
+    "source_id": "fc651475-187c-5882-a644-b501408e8647",
+    "applied_source_revision": 1,
+    "routes": [
+      "Intake only — no usable text"
+    ],
+    "output_paths": [],
+    "processing_review_state": "intake only",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "M12",
+    "source_type": "meeting",
+    "source_id": "c759b921-e9d3-540c-a06b-474c5710342d",
+    "applied_source_revision": 1,
+    "routes": [
+      "Intake only — no usable text"
+    ],
+    "output_paths": [],
+    "processing_review_state": "intake only",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "M13",
+    "source_type": "meeting",
+    "source_id": "794a9d1c-889d-5957-873f-8a1271b03455",
+    "applied_source_revision": 1,
+    "routes": [
+      "Intake only — no usable text"
+    ],
+    "output_paths": [],
+    "processing_review_state": "intake only",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "record_ref": "M14",
+    "source_type": "meeting",
+    "source_id": "93f4867d-65cd-5236-bc55-7bd57df8ac24",
+    "applied_source_revision": 1,
+    "routes": [
+      "Intake only — no usable text"
+    ],
+    "output_paths": [],
+    "processing_review_state": "intake only",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  }
+]
